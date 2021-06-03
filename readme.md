@@ -1,1 +1,1 @@
-ECHO is on.
+update the message 
